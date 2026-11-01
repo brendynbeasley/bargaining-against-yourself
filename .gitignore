@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary download names used by src/fetch_data.py
+data/raw/*.tmp
+
+# Secrets
+*.key
+.env
+
+# macOS
+.DS_Store
